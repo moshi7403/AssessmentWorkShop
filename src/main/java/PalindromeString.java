@@ -17,11 +17,11 @@ public class PalindromeString {
 
         if(str.equals(rev))
         {
-            System.out.println( str + " is Palindrome number");
+            System.out.println( str + " is Palindrome ");
         }
         else
         {
-            System.out.println( str + " is not a Palindrome number");
+            System.out.println( str + " is not a Palindrome ");
         }
 
     }
