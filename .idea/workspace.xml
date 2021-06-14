@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1eea976-5ca0-4dc8-8867-c585632de82d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FindLargestOfThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FindLargestOfThreeNumbers.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,26 +25,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ReadDataFromTextFile" value="1" />
-          <entry key="java" value="25" />
+          <entry key="java" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ReadDataFromTextFile" value="31" />
-          <entry key="dummy" value="17" />
-          <entry key="java" value="4089" />
+          <entry key="dummy" value="34" />
+          <entry key="java" value="4348" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4089" />
-          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="JAVA" value="4348" />
+          <entry key="PLAIN_TEXT" value="65" />
         </counts>
       </usages-collector>
     </session>
@@ -54,10 +52,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SumOfArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+            <state relative-caret-position="855">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,6 +95,8 @@
         <option value="$PROJECT_DIR$/src/main/java/PrimeNumberCheck.java" />
         <option value="$PROJECT_DIR$/src/main/java/ReverseEachWordInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/SumOfArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EvenAndOddNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java" />
       </list>
     </option>
   </component>
@@ -165,7 +165,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623649563614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623651448992" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -183,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumOfArray">
+  <component name="RunManager" selected="Application.EvenAndOddNumberInArrayPrint">
     <configuration name="CountEvenAndOddDIgitsInANumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountEvenAndOddDIgitsInANumbers" />
       <module name="SolutionLab" />
@@ -198,15 +198,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargestOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindLargestOfThreeNumbers" />
+    <configuration name="EvenAndOddNumberInArrayPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenAndOddNumberInArrayPrint" />
       <module name="SolutionLab" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseANumber" />
+    <configuration name="FindLargestOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLargestOfThreeNumbers" />
       <module name="SolutionLab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseANumber" />
       <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
       <item itemvalue="Application.CountSumOfDigits" />
       <item itemvalue="Application.FindLargestOfThreeNumbers" />
       <item itemvalue="Application.SumOfArray" />
+      <item itemvalue="Application.EvenAndOddNumberInArrayPrint" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenAndOddNumberInArrayPrint" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.FindLargestOfThreeNumbers" />
         <item itemvalue="Application.CountSumOfDigits" />
         <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
-        <item itemvalue="Application.ReverseANumber" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +253,7 @@
     <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +262,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33960396" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33960396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,13 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountWordsInAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -435,8 +428,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SumOfArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
+        <state relative-caret-position="722">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountWordsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
         </state>
       </provider>
     </entry>
