@@ -9,13 +9,15 @@ public class CountOccurrenceInCharString {
          *
          */
 
-        String testString = "abcd";
-        int replace = testString.length() - testString.replace(".", "").length();
-        System.out.println("replace = " + replace);
+        String characters = "Java is a programming language";
 
+        int totalCount= characters.length();
 
-        String s = "a.b.c.d";
-        int charCount = s.length() - s.replaceAll("\\.", "").length();
-        System.out.println(charCount);
+        int totalCount_AfterRemoval = characters.replaceAll("a","").length();
+
+        int count = totalCount-totalCount_AfterRemoval;
+
+        System.out.println("Number of occurences : " + count);
+
     }
 }
