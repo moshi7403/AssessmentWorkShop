@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1eea976-5ca0-4dc8-8867-c585632de82d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,12 +25,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ReadDataFromTextFile" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="29" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -39,12 +38,12 @@
         <counts>
           <entry key="ReadDataFromTextFile" value="31" />
           <entry key="dummy" value="34" />
-          <entry key="java" value="4638" />
+          <entry key="java" value="4888" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4638" />
+          <entry key="JAVA" value="4888" />
           <entry key="PLAIN_TEXT" value="65" />
         </counts>
       </usages-collector>
@@ -56,16 +55,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DuplicateElementsInArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DuplicateElementsInArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SearchingElementInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            <state relative-caret-position="399">
+              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -108,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/main/java/EvenAndOddNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java" />
         <option value="$PROJECT_DIR$/src/main/java/DuplicateElementsInArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SearchingElementInArray.java" />
       </list>
     </option>
   </component>
@@ -176,7 +185,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623652447246" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623652536260" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -194,14 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuplicateElementsInArray">
-    <configuration name="CountSumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountSumOfDigits" />
-      <module name="SolutionLab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SearchingElementInArray">
     <configuration name="DuplicateElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateElementsInArray" />
       <module name="SolutionLab" />
@@ -223,6 +225,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchingElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchingElementInArray" />
+      <module name="SolutionLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfArray" />
       <module name="SolutionLab" />
@@ -231,19 +240,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountSumOfDigits" />
       <item itemvalue="Application.FindLargestOfThreeNumbers" />
       <item itemvalue="Application.SumOfArray" />
       <item itemvalue="Application.EvenAndOddNumberInArrayPrint" />
       <item itemvalue="Application.DuplicateElementsInArray" />
+      <item itemvalue="Application.SearchingElementInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchingElementInArray" />
         <item itemvalue="Application.DuplicateElementsInArray" />
         <item itemvalue="Application.EvenAndOddNumberInArrayPrint" />
         <item itemvalue="Application.SumOfArray" />
         <item itemvalue="Application.FindLargestOfThreeNumbers" />
-        <item itemvalue="Application.CountSumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +273,7 @@
     <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -278,7 +287,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.319802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.319802" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32983193" />
@@ -454,14 +463,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/EvenAndOddNumberInArrayPrint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DuplicateElementsInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SearchingElementInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
         </state>
       </provider>
     </entry>
