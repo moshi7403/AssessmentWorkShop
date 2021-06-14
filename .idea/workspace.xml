@@ -25,12 +25,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ReadDataFromTextFile" value="1" />
-          <entry key="java" value="15" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -38,12 +38,12 @@
         <counts>
           <entry key="ReadDataFromTextFile" value="31" />
           <entry key="dummy" value="17" />
-          <entry key="java" value="2677" />
+          <entry key="java" value="2962" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2677" />
+          <entry key="JAVA" value="2962" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
@@ -69,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CountNumberOfDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="266">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CountEvenAndOddDIgitsInANumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="94" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -116,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/java/PalindromNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/PalindromeString.java" />
         <option value="$PROJECT_DIR$/src/main/java/CountNumberOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CountEvenAndOddDIgitsInANumbers.java" />
       </list>
     </option>
   </component>
@@ -184,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623640983624" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623642180007" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -202,7 +212,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountNumberOfDigits">
+  <component name="RunManager" selected="Application.CountEvenAndOddDIgitsInANumbers">
+    <configuration name="CountEvenAndOddDIgitsInANumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountEvenAndOddDIgitsInANumbers" />
+      <module name="SolutionLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountNumberOfDigits" />
       <module name="SolutionLab" />
@@ -212,13 +229,6 @@
     </configuration>
     <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
-      <module name="SolutionLab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadDataFromTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadDataFromTextFile" />
       <module name="SolutionLab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -239,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReadDataFromTextFile" />
       <item itemvalue="Application.SwapingNumber" />
       <item itemvalue="Application.ReverseANumber" />
       <item itemvalue="Application.PalindromNumber" />
       <item itemvalue="Application.CountNumberOfDigits" />
+      <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
+        <item itemvalue="Application.ReverseANumber" />
         <item itemvalue="Application.CountNumberOfDigits" />
         <item itemvalue="Application.PalindromNumber" />
-        <item itemvalue="Application.ReverseANumber" />
         <item itemvalue="Application.SwapingNumber" />
-        <item itemvalue="Application.ReadDataFromTextFile" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +282,7 @@
     <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -302,6 +312,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CountNumberOfDigits.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -400,8 +422,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CountNumberOfDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CountEvenAndOddDIgitsInANumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="94" selection-start-line="21" selection-start-column="94" selection-end-line="21" selection-end-column="94" />
         </state>
       </provider>
     </entry>
