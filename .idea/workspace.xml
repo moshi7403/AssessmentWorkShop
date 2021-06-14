@@ -25,12 +25,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ReadDataFromTextFile" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -38,12 +38,12 @@
         <counts>
           <entry key="ReadDataFromTextFile" value="31" />
           <entry key="dummy" value="17" />
-          <entry key="java" value="3160" />
+          <entry key="java" value="3427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3160" />
+          <entry key="JAVA" value="3427" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
@@ -69,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CountSumOfDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FindLargestOfThreeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -136,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/main/java/CountNumberOfDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/CountEvenAndOddDIgitsInANumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/CountSumOfDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindLargestOfThreeNumbers.java" />
       </list>
     </option>
   </component>
@@ -204,7 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623643438307" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623644145638" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -222,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountSumOfDigits">
+  <component name="RunManager" selected="Application.FindLargestOfThreeNumbers">
     <configuration name="CountEvenAndOddDIgitsInANumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountEvenAndOddDIgitsInANumbers" />
       <module name="SolutionLab" />
@@ -244,8 +254,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
+    <configuration name="FindLargestOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindLargestOfThreeNumbers" />
       <module name="SolutionLab" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,18 +270,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ReverseANumber" />
-      <item itemvalue="Application.PalindromNumber" />
       <item itemvalue="Application.CountNumberOfDigits" />
       <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
       <item itemvalue="Application.CountSumOfDigits" />
+      <item itemvalue="Application.FindLargestOfThreeNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLargestOfThreeNumbers" />
         <item itemvalue="Application.CountSumOfDigits" />
         <item itemvalue="Application.CountEvenAndOddDIgitsInANumbers" />
         <item itemvalue="Application.ReverseANumber" />
         <item itemvalue="Application.CountNumberOfDigits" />
-        <item itemvalue="Application.PalindromNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +302,7 @@
     <frame x="1680" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,12 +311,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33960396" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33960396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.319802" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.319802" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32983193" />
@@ -446,8 +456,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CountSumOfDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FindLargestOfThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
         </state>
       </provider>
     </entry>
