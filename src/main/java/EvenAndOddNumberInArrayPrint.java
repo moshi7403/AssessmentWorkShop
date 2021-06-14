@@ -2,10 +2,6 @@ public class EvenAndOddNumberInArrayPrint {
 
     public static void main(String[] args) {
 
-        /**
-         * Approach-1 : Regular For loop
-         */
-
 
         int a[] = {2,3,6,8,9,5};
 
