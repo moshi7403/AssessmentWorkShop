@@ -8,7 +8,9 @@ public class PalindromNumber {
         StringBuffer reversedNumber = inputNumber.reverse();
 
 
-        if(inputNumber ==reversedNumber)
+       // if(inputNumber ==reversedNumber)
+
+        if(inputNumber.equals(reversedNumber))
         {
             System.out.println( inputNumber + " is Palindrome number");
         }
