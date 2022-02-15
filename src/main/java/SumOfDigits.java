@@ -4,7 +4,7 @@ public class SumOfDigits {
 
     public static void main(String arg[])
     {
-        //long n,sum;
+        long n,sum;
         //Scanner sc=new Scanner(System.in);
         //System.out.println("Enter a number ");
         //n=sc.nextLong();
